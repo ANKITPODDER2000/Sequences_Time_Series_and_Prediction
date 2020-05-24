@@ -1,0 +1,158 @@
+Week 1 Quiz
+LATEST SUBMISSION GRADE
+100%
+**************************************************************************************************************************
+1.Question 1
+What is an example of a Univariate time series?
+
+
+Baseball scores
+
+
+Hour by hour weather  
+
+
+Fashion items
+
+
+Hour by hour temperature(ANS)
+
+Correct
+1 / 1 point
+**************************************************************************************************************************
+2.Question 2
+What is an example of a Multivariate time series?
+
+
+Hour by hour weather(ANS)
+
+
+Fashion items
+
+
+Baseball scores
+
+
+Hour by hour temperature 
+
+Correct
+1 / 1 point
+**************************************************************************************************************************
+3.Question 3
+What is imputed data?
+
+
+Data that has been withheld for various reasons
+
+
+A good prediction of future data
+
+
+A projection of unknown (usually past or missing) data(ANS)
+
+
+A bad prediction of future data
+
+Correct
+1 / 1 point
+**************************************************************************************************************************
+4.Question 4
+A sound wave is a good example of time series data
+
+
+True(ANS)
+
+
+False
+
+Correct
+1 / 1 point
+**************************************************************************************************************************
+5.Question 5
+What is Seasonality?
+
+
+A regular change in shape of the data(ANS)
+
+
+Data that is only available at certain times of the year
+
+
+Weather data
+
+
+Data aligning to the 4 seasons of the calendar
+
+Correct
+1 / 1 point
+**************************************************************************************************************************
+6.Question 6
+What is a trend?
+
+
+An overall consistent flat direction for data
+
+
+An overall consistent downward direction for data
+
+
+An overall consistent upward direction for data
+
+
+An overall direction for data regardless of direction(ANS)
+
+Correct
+1 / 1 point
+**************************************************************************************************************************
+7.Question 7
+In the context of time series, what is noise?
+
+
+Sound waves forming a time series
+
+
+Data that doesn’t have seasonality
+
+
+Unpredictable changes in time series data(ANS)
+
+
+Data that doesn’t have a trend
+
+Correct
+1 / 1 point
+**************************************************************************************************************************
+8.Question 8
+What is autocorrelation?
+
+
+Data that automatically lines up seasonally
+
+
+Data that doesn’t have noise
+
+
+Data that follows a predictable shape, even if the scale is different(ANS)
+
+
+Data that automatically lines up in trends
+
+Correct
+1 / 1 point
+**************************************************************************************************************************
+9.Question 9
+What is a non-stationary time series?
+
+
+One that has a constructive event forming trend and seasonality
+
+
+One that has a disruptive event breaking trend and seasonality(ANS)
+
+
+One that moves seasonally
+
+
+One that is consistent across all seasons
+
+Correct
